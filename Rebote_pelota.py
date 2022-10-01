@@ -16,5 +16,5 @@ while h>c:
     h=h-(h*0.10)
     r=r+1
 
-print("/n La pelota no alcanza la quinta parte de la altura inicial al rebote numero "+str(r))
+print("\n La pelota no alcanza la quinta parte de la altura inicial al rebote numero "+str(r))
 print(" ")
